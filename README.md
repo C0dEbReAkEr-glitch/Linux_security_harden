@@ -305,9 +305,4 @@ A20: This could be due to increased logging, stricter firewall rules, or securit
 - Firewall rules (ensure they're not blocking necessary traffic)
 
 Security is an ongoing process. Regularly review your system's security settings, keep your system updated, and stay informed about new security practices and vulnerabilities.
-
-## Citation
-If you use these concepts or code in your research or projects, please cite it as follows:
-```
-(C0dEbReAkEr-glitch). (2025). https://github.com/C0dEbReAkEr-glitch/Linux_security_harden
 ```
