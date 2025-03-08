@@ -1,6 +1,6 @@
 # Ubuntu / Debian Linux Security Hardening Scripts
 
-^ ( For power users but can be configured to be 'lighter').
+( For power users but can be configured to be 'lighter').
 
 ## Overview
 This project consists of two scripts designed to enhance the security of Ubuntu based distros and other Debian-based Linux systems. The main script implements a variety of security measures and best practices to harden your system against common threats, while the GRUB configuration script specifically focuses on securing the boot process. 
@@ -305,4 +305,3 @@ A20: This could be due to increased logging, stricter firewall rules, or securit
 - Firewall rules (ensure they're not blocking necessary traffic)
 
 Security is an ongoing process. Regularly review your system's security settings, keep your system updated, and stay informed about new security practices and vulnerabilities.
-```
